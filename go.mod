@@ -1,4 +1,4 @@
-module go_lib_response
+module github.com/TitoCarpio/go_lib_response
 
 go 1.23.2
 
